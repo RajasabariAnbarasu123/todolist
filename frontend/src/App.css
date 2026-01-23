@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.edit-btn {
+  margin-bottom: 20px;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.board {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.column {
+  background: white;
+  width: 280px;
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+
+.goal {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+  padding: 6px 0;
+}
+
+.icons span {
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.add-box {
+  display: flex;
+  margin-top: 10px;
+}
+
+.add-box input {
+  flex: 1;
+  padding: 5px;
+}
+
+.add-box button {
+  padding: 5px 10px;
+  cursor: pointer;
+}

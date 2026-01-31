@@ -1,0 +1,6 @@
+com\example\backend\service\GoalService.class
+com\example\backend\model\GoalRequest.class
+com\example\backend\controller\GoalController.class
+com\example\backend\BackendApplication.class
+com\example\backend\model\Goal.class
+com\example\backend\repository\GoalRepository.class
